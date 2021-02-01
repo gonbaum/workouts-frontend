@@ -164,11 +164,14 @@ const Pagination = ({   totalPosts, currentPage, handlePageChange, pageSize   })
 const PaginationContainer = styled.div `
 
 .row {
-    
     display:flex;  
     padding: 10px;
     align-center: center;
     flex-direction: column;
+}
+
+.pagination {
+  flex-flow: row wrap;
 }
 
 `

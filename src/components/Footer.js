@@ -29,6 +29,10 @@ const Footer = () => {
     background-color: #efefef;
     font-style: 'italic';
     font-size: 16px;
+
+    .row {
+      padding: 1rem;
+    }
 `
 
 export default Footer

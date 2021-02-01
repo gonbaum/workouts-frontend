@@ -68,6 +68,7 @@ const App = () => {
         cat: number,
       },
     })
+    handlePageChange(1)
     console.log(filter)
   }
 

@@ -37,6 +37,11 @@ margin-bottom:10px;
         display:block;  
         padding: 15px;
         align-center: center;
+        margin-left: 0;
+    }
+
+    .btn {
+      margin-left: 15px;
     }
 `
 
