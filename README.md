@@ -8,7 +8,7 @@ The user can receive a list of workouts sessions from an API serving a MongoDB D
 
 ### Familiar with Git?
 
-clone this repository and `cd` into `crypto-react` folder
+clone this repository and `cd` into `workouts-frontend` folder
 
 ```
 git clone https://github.com/gonbaum/workouts-frontend.git
