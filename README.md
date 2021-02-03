@@ -33,4 +33,4 @@ npm start
 ```
 
 # About 
-This is just a personal practice project based on a code challenge. I implemented pagination logic and consume an REST API whichs will be published in a separate repo.
+This is just a personal practice project based on a code challenge. I implemented a custom pagination logic and consume a REST API whichs will is published in a separate repo.
